@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shanza-Fatima
-- 👀 I’m interested in programming and cybersecurity
-- 🌱 I’m currently learning frontend development
+- 👀 I’m interested in Backend and AI Agents
+- 🌱 I’m currently learning Backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shanzafatima61@gmail.com
 - 😄 Pronouns: she/her
