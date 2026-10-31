@@ -13,6 +13,9 @@ BS Computer Science, Abasyn University Peshawar · CGPA 3.92/4.00
 - [TaleWeaver-AI](https://github.com/Shanza-Fatima/TaleWeaver-AI): FastAPI backend for LLM story generation (in progress)
 - [Bazaar-Sense](https://github.com/Shanza-Fatima/Bazaar-Sense): multimodal shopping assistant prototype using the Gemini API
 
+**Earlier web work**
+- [shoes-website](https://github.com/Shanza-Fatima/shoes-website): multi-page static shoe store in HTML and CSS
+
 **Contact:** shanzafatima61@gmail.com · [LinkedIn](https://linkedin.com/in/shanza-fatima)
 
 <!---
