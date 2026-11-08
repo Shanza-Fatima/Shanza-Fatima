@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shanza-fatima"><img src="https://img.shields.io/badge/LinkedIn-Shanza%20Fatima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/shanza-fatima-9a2348293/"><img src="https://img.shields.io/badge/LinkedIn-Shanza%20Fatima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:shanzafatima61@gmail.com"><img src="https://img.shields.io/badge/Email-shanzafatima61%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -50,7 +50,7 @@ Measured on an Intel Core i7-8665U with 242 frames. Speed only, accuracy was not
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,opencv,linux,ubuntu,git,github,vscode,html,css" alt="Tech stack icons">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,opencv,linux,ubuntu,git,github,vscode,html,css,javascript,mysql,java" alt="Tech stack icons">
 </p>
 
 **AI and vision:** YOLO (Ultralytics) · OpenCV · ONNX Runtime · LLM APIs · anomaly detection
@@ -65,4 +65,4 @@ Measured on an Intel Core i7-8665U with 242 frames. Speed only, accuracy was not
 
 I am open to research conversations with professors and labs working on computer vision, robotics and agentic AI.
 
-📧 [shanzafatima61@gmail.com](mailto:shanzafatima61@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/shanza-fatima)
+📧 [shanzafatima61@gmail.com](mailto:shanzafatima61@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/shanza-fatima-9a2348293/)
